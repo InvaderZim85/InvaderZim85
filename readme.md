@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-My name is Andreas and I'm a C# software developer from germany.
+My name is Andreas and I'm a C# software developer and CPSA-F from germany.
 
 Here one of my most favorite repos 
 
