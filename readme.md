@@ -21,9 +21,3 @@ Here is a list of a few useful repos
 | [ZimLabs.WpfBase.NetCore](https://github.com/InvaderZim85/ZimLabs.WpfBase.NetCore) - **ARCHIVE** | .net 5 | WPF Class library which provides classes / functions for the easy use of MVVM in a WPF application | [![Nuget](https://img.shields.io/nuget/v/ZimLabs.WpfBase.NetCore)](https://www.nuget.org/packages/ZimLabs.WpfBase.NetCore) | / |
 | [ZimLabs.TableCreator](https://github.com/InvaderZim85/ZimLabs.TableCreator) | .net Standard 2.0 | This library is not very special :) It takes a list of objects and creates an ASCII "table", markdown table or a CSV list. Very simple and straigt forward. | [![Nuget](https://img.shields.io/nuget/v/ZimLabs.TableCreator)](https://www.nuget.org/packages/ZimLabs.TableCreator/) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/InvaderZim85/ZimLabs.TableCreator)](https://github.com/InvaderZim85/ZimLabs.TableCreator/releases) |
 | [ZimLabs.Settings.Sqlite](https://github.com/InvaderZim85/ZimLabs.Settings.SQlite) | .net 7 | This library provides functions to manage settings using a SQLite database. | [![Nuget](https://img.shields.io/nuget/v/ZimLabs.Settings.Sqlite)](https://www.nuget.org/packages/ZimLabs.Settings.Sqlite) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/InvaderZim85/ZimLabs.Settings.Sqlite)](https://github.com/InvaderZim85/ZimLabs.Settings.Sqlite/releases) |
-
---- 😎
-
-![CPSA-F](https://assets.badges.certible.com/baked-badges/certible/b079deb1-95ed-450b-8443-fb470cb2e747.png)
-
-Fancy zone 
