@@ -1,5 +1,9 @@
 ## Hi there 😎
 
+<picture>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/FCKAFD.jpg" width="48" alt="fckafd" title="fckafd">
+</picture>
+
 My name is Andreas and I'm a C# software developer and CPSA-F from germany.
 
 Here one of my most favorite repos 
