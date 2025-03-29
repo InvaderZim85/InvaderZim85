@@ -1,4 +1,4 @@
-## Hi there 😎
+## Hello there 😎
 
 My name is Andreas and I'm a C# software developer and CPSA-F from germany.
 
